@@ -8,7 +8,7 @@ of this code is to simplify the writting of a quantitative trading system.
 
 The most simplistic models are:
 
-The equal weighted: thatr assigns the same weight for every stock.
+The equal weighted: that assigns the same weight for every stock.
 
 The equal risk: that assigns the same risk for every stock, here you will need the risk for every stock it could be the
 Standard Deviation for example.
